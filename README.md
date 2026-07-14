@@ -1,0 +1,1 @@
+A web server is a computer system (combining hardware and software) that stores, processes, and delivers website content to users over the internet or a private network. Operating on the client-server model, it acts as the central hub that fulfills requests made by client devices, such as web browsers.
